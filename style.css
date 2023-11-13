@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    transition: background-color 0.5s;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    margin-top: 20px;
+}
+
+input {
+    width: 80px;
+    padding: 8px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#resultado {
+    margin-top: 30px;
+    font-size: 18px;
+    color: #333;
+}
+
+/* Cores de fundo */
+.par { background-color: #3498db; color: #fff; }
+.impar { background-color: #e67e22; color: #fff; }
